@@ -23,7 +23,7 @@ YA KALIAN TIDAK AKAN BISA MELAKUKANNYA JIKA TIDAK TAHU ALGORITMA !
 
 bahkan tanpa ngoding pun dan hanya memecahkan masalahnya saja di pikiran kita, manusia akan susah sekali memecahkan masalah ini jika tidak tahu algoritmanya.
 
-RPN ini menjungjung tinggi foundation dan logic. Cara berfikir kalian akan sangat diasah disini dan algoritma adalah segalanya bagi kita.
+ETHJKT ini menjunjung tinggi foundation dan logic. Cara berfikir kalian akan sangat diasah disini dan algoritma adalah segalanya bagi kita.
 
 ## Apa itu algoritma ? 
 
@@ -237,3 +237,7 @@ Algoritma kompleks ini akan kalian pelajari di phase 1 nanti !.
 ## Other Source
 
 [Apa itu algoritma pemrograman by WPU](https://youtu.be/uqVJc9lLknA?si=-_BqdNZQS5xcCQrd)
+
+[Computer Science Basics: Algorithms by LearnFree](https://www.youtube.com/watch?v=kM9ASKAni_s&t=37s)
+
+[Algorithms by geeksforgeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
